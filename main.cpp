@@ -27,8 +27,8 @@ int main() {
 	d1.insertedge(0,10);
 	d1.insertedge(1,1);
 	d1.insertedge(1,2);
-	d1.insertedge(1,3);
-	d1.insertedge(1,4);
+/***	d1.insertedge(1,3);***/
+/**	d1.insertedge(1,4); ****/
 /***	d1.insertedge(1,5);     ****/
 
 	d1.insertedge(0,1);
